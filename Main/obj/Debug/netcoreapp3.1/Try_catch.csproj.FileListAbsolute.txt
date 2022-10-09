@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Try_catch.exe
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Try_catch.deps.json
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Try_catch.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Try_catch.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Try_catch.dll
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Try_catch.pdb
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.csproj.AssemblyReference.cache
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.dll
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.pdb
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Try_catch.genruntimeconfig.cache

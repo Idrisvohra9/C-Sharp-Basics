@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\Call_by_ref\bin\Debug\netcoreapp3.1\Call_by_ref.exe
+C:\Users\abdev\source\repos\Main\Call_by_ref\bin\Debug\netcoreapp3.1\Call_by_ref.deps.json
+C:\Users\abdev\source\repos\Main\Call_by_ref\bin\Debug\netcoreapp3.1\Call_by_ref.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Call_by_ref\bin\Debug\netcoreapp3.1\Call_by_ref.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Call_by_ref\bin\Debug\netcoreapp3.1\Call_by_ref.dll
+C:\Users\abdev\source\repos\Main\Call_by_ref\bin\Debug\netcoreapp3.1\Call_by_ref.pdb
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.csproj.AssemblyReference.cache
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.dll
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.pdb
+C:\Users\abdev\source\repos\Main\Call_by_ref\obj\Debug\netcoreapp3.1\Call_by_ref.genruntimeconfig.cache

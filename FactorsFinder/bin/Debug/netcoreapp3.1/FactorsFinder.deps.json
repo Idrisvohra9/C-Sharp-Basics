@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FactorsFinder/1.0.0": {
+        "runtime": {
+          "FactorsFinder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactorsFinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\C#\Main\DefaultParameter\bin\Debug\DefaultParameter.exe.config
+D:\C#\Main\DefaultParameter\bin\Debug\DefaultParameter.exe
+D:\C#\Main\DefaultParameter\bin\Debug\DefaultParameter.pdb
+D:\C#\Main\DefaultParameter\obj\Debug\DefaultParameter.csproj.AssemblyReference.cache
+D:\C#\Main\DefaultParameter\obj\Debug\DefaultParameter.csproj.SuggestedBindingRedirects.cache
+D:\C#\Main\DefaultParameter\obj\Debug\DefaultParameter.csproj.CoreCompileInputs.cache
+D:\C#\Main\DefaultParameter\obj\Debug\DefaultParameter.exe
+D:\C#\Main\DefaultParameter\obj\Debug\DefaultParameter.pdb

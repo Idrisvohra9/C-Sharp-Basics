@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\XML_Serialization\bin\Debug\netcoreapp3.1\XML_Serialization.exe
+C:\Users\abdev\source\repos\Main\XML_Serialization\bin\Debug\netcoreapp3.1\XML_Serialization.deps.json
+C:\Users\abdev\source\repos\Main\XML_Serialization\bin\Debug\netcoreapp3.1\XML_Serialization.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\XML_Serialization\bin\Debug\netcoreapp3.1\XML_Serialization.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\XML_Serialization\bin\Debug\netcoreapp3.1\XML_Serialization.dll
+C:\Users\abdev\source\repos\Main\XML_Serialization\bin\Debug\netcoreapp3.1\XML_Serialization.pdb
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.csproj.AssemblyReference.cache
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.dll
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.pdb
+C:\Users\abdev\source\repos\Main\XML_Serialization\obj\Debug\netcoreapp3.1\XML_Serialization.genruntimeconfig.cache

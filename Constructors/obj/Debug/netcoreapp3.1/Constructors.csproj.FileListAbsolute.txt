@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\abdev\source\repos\Main\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\abdev\source\repos\Main\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\abdev\source\repos\Main\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
+C:\Users\abdev\source\repos\Main\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.AssemblyReference.cache

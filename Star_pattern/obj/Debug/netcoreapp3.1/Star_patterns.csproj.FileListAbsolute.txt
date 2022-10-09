@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Star_pattern\bin\Debug\netcoreapp3.1\Star_patterns.exe
+C:\Users\abdev\source\repos\Main\Star_pattern\bin\Debug\netcoreapp3.1\Star_patterns.deps.json
+C:\Users\abdev\source\repos\Main\Star_pattern\bin\Debug\netcoreapp3.1\Star_patterns.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Star_pattern\bin\Debug\netcoreapp3.1\Star_patterns.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Star_pattern\bin\Debug\netcoreapp3.1\Star_patterns.dll
+C:\Users\abdev\source\repos\Main\Star_pattern\bin\Debug\netcoreapp3.1\Star_patterns.pdb
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.dll
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.pdb
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.genruntimeconfig.cache
+C:\Users\abdev\source\repos\Main\Star_pattern\obj\Debug\netcoreapp3.1\Star_patterns.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\FactorsFinder\bin\Debug\netcoreapp3.1\FactorsFinder.exe
+C:\Users\abdev\source\repos\Main\FactorsFinder\bin\Debug\netcoreapp3.1\FactorsFinder.deps.json
+C:\Users\abdev\source\repos\Main\FactorsFinder\bin\Debug\netcoreapp3.1\FactorsFinder.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\FactorsFinder\bin\Debug\netcoreapp3.1\FactorsFinder.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\FactorsFinder\bin\Debug\netcoreapp3.1\FactorsFinder.dll
+C:\Users\abdev\source\repos\Main\FactorsFinder\bin\Debug\netcoreapp3.1\FactorsFinder.pdb
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.dll
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.pdb
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.genruntimeconfig.cache
+C:\Users\abdev\source\repos\Main\FactorsFinder\obj\Debug\netcoreapp3.1\FactorsFinder.csproj.AssemblyReference.cache

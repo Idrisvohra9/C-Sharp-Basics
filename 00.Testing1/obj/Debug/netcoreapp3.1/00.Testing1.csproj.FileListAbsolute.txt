@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.exe
+C:\Users\abdev\source\repos\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.deps.json
+C:\Users\abdev\source\repos\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.dll
+C:\Users\abdev\source\repos\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.pdb
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.dll
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.pdb
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.genruntimeconfig.cache
+C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.csproj.AssemblyReference.cache

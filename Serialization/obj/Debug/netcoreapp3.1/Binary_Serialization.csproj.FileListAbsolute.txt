@@ -1,0 +1,13 @@
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Binary_Serialization.exe
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Binary_Serialization.deps.json
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Binary_Serialization.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Binary_Serialization.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Binary_Serialization.dll
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Binary_Serialization.pdb
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Binary_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Binary_Serialization.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Binary_Serialization.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Binary_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Binary_Serialization.dll
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Binary_Serialization.pdb
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Binary_Serialization.genruntimeconfig.cache

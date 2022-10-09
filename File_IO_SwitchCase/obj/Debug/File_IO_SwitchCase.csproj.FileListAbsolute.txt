@@ -1,0 +1,7 @@
+C:\Users\abdev\source\repos\Main\File_IO_SwitchCase\bin\Debug\File_IO_SwitchCase.exe.config
+C:\Users\abdev\source\repos\Main\File_IO_SwitchCase\bin\Debug\File_IO_SwitchCase.exe
+C:\Users\abdev\source\repos\Main\File_IO_SwitchCase\bin\Debug\File_IO_SwitchCase.pdb
+C:\Users\abdev\source\repos\Main\File_IO_SwitchCase\obj\Debug\File_IO_SwitchCase.csproj.AssemblyReference.cache
+C:\Users\abdev\source\repos\Main\File_IO_SwitchCase\obj\Debug\File_IO_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\File_IO_SwitchCase\obj\Debug\File_IO_SwitchCase.exe
+C:\Users\abdev\source\repos\Main\File_IO_SwitchCase\obj\Debug\File_IO_SwitchCase.pdb

@@ -1,0 +1,13 @@
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Exception_Handling.exe
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Exception_Handling.deps.json
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Exception_Handling.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Exception_Handling.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Exception_Handling.dll
+C:\Users\abdev\source\repos\Main\Main\bin\Debug\netcoreapp3.1\Exception_Handling.pdb
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Exception_Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Exception_Handling.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Exception_Handling.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Exception_Handling.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Exception_Handling.dll
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Exception_Handling.pdb
+C:\Users\abdev\source\repos\Main\Main\obj\Debug\netcoreapp3.1\Exception_Handling.genruntimeconfig.cache

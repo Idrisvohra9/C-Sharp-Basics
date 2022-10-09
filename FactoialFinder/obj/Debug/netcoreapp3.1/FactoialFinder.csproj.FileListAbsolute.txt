@@ -1,0 +1,13 @@
+C:\Users\abdev\source\repos\Main\FactoialFinder\bin\Debug\netcoreapp3.1\FactoialFinder.exe
+C:\Users\abdev\source\repos\Main\FactoialFinder\bin\Debug\netcoreapp3.1\FactoialFinder.deps.json
+C:\Users\abdev\source\repos\Main\FactoialFinder\bin\Debug\netcoreapp3.1\FactoialFinder.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\FactoialFinder\bin\Debug\netcoreapp3.1\FactoialFinder.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\FactoialFinder\bin\Debug\netcoreapp3.1\FactoialFinder.dll
+C:\Users\abdev\source\repos\Main\FactoialFinder\bin\Debug\netcoreapp3.1\FactoialFinder.pdb
+C:\Users\abdev\source\repos\Main\FactoialFinder\obj\Debug\netcoreapp3.1\FactoialFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\FactoialFinder\obj\Debug\netcoreapp3.1\FactoialFinder.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\FactoialFinder\obj\Debug\netcoreapp3.1\FactoialFinder.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\FactoialFinder\obj\Debug\netcoreapp3.1\FactoialFinder.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\FactoialFinder\obj\Debug\netcoreapp3.1\FactoialFinder.dll
+C:\Users\abdev\source\repos\Main\FactoialFinder\obj\Debug\netcoreapp3.1\FactoialFinder.pdb
+C:\Users\abdev\source\repos\Main\FactoialFinder\obj\Debug\netcoreapp3.1\FactoialFinder.genruntimeconfig.cache

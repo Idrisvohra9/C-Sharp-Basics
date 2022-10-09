@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\bin\Debug\netcoreapp3.1\PrimeNumberFinder.exe
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\bin\Debug\netcoreapp3.1\PrimeNumberFinder.deps.json
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\bin\Debug\netcoreapp3.1\PrimeNumberFinder.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\bin\Debug\netcoreapp3.1\PrimeNumberFinder.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\bin\Debug\netcoreapp3.1\PrimeNumberFinder.dll
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\bin\Debug\netcoreapp3.1\PrimeNumberFinder.pdb
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.dll
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.pdb
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.genruntimeconfig.cache
+C:\Users\abdev\source\repos\Main\PrimeNumberFinder\obj\Debug\netcoreapp3.1\PrimeNumberFinder.csproj.AssemblyReference.cache

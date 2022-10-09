@@ -1,0 +1,14 @@
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.csproj.AssemblyReference.cache
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Access_modifiers\bin\Debug\netcoreapp3.1\Access_modifiers.exe
+C:\Users\abdev\source\repos\Main\Access_modifiers\bin\Debug\netcoreapp3.1\Access_modifiers.deps.json
+C:\Users\abdev\source\repos\Main\Access_modifiers\bin\Debug\netcoreapp3.1\Access_modifiers.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Access_modifiers\bin\Debug\netcoreapp3.1\Access_modifiers.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Access_modifiers\bin\Debug\netcoreapp3.1\Access_modifiers.dll
+C:\Users\abdev\source\repos\Main\Access_modifiers\bin\Debug\netcoreapp3.1\Access_modifiers.pdb
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.dll
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.pdb
+C:\Users\abdev\source\repos\Main\Access_modifiers\obj\Debug\netcoreapp3.1\Access_modifiers.genruntimeconfig.cache

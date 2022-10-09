@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FactoialFinder/1.0.0": {
+        "runtime": {
+          "FactoialFinder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FactoialFinder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

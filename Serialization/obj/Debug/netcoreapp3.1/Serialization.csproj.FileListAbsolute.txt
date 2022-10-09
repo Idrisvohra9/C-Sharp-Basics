@@ -1,0 +1,13 @@
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\abdev\source\repos\Main\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\abdev\source\repos\Main\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache

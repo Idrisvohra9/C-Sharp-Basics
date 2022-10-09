@@ -1,0 +1,7 @@
+In c# we can create multiple files in a project.
+
+That could be class files, interface files etc. 
+But there is one thing to remember that in a project there could be only one class 
+in which there is Main method.
+
+And that class file is mainly named as Program.cs

@@ -1,0 +1,13 @@
+C:\Users\abdev\source\repos\Main\Inheritance\bin\Debug\netcoreapp3.1\Inheritance_and_Interface.exe
+C:\Users\abdev\source\repos\Main\Inheritance\bin\Debug\netcoreapp3.1\Inheritance_and_Interface.deps.json
+C:\Users\abdev\source\repos\Main\Inheritance\bin\Debug\netcoreapp3.1\Inheritance_and_Interface.runtimeconfig.json
+C:\Users\abdev\source\repos\Main\Inheritance\bin\Debug\netcoreapp3.1\Inheritance_and_Interface.runtimeconfig.dev.json
+C:\Users\abdev\source\repos\Main\Inheritance\bin\Debug\netcoreapp3.1\Inheritance_and_Interface.dll
+C:\Users\abdev\source\repos\Main\Inheritance\bin\Debug\netcoreapp3.1\Inheritance_and_Interface.pdb
+C:\Users\abdev\source\repos\Main\Inheritance\obj\Debug\netcoreapp3.1\Inheritance_and_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdev\source\repos\Main\Inheritance\obj\Debug\netcoreapp3.1\Inheritance_and_Interface.AssemblyInfoInputs.cache
+C:\Users\abdev\source\repos\Main\Inheritance\obj\Debug\netcoreapp3.1\Inheritance_and_Interface.AssemblyInfo.cs
+C:\Users\abdev\source\repos\Main\Inheritance\obj\Debug\netcoreapp3.1\Inheritance_and_Interface.csproj.CoreCompileInputs.cache
+C:\Users\abdev\source\repos\Main\Inheritance\obj\Debug\netcoreapp3.1\Inheritance_and_Interface.dll
+C:\Users\abdev\source\repos\Main\Inheritance\obj\Debug\netcoreapp3.1\Inheritance_and_Interface.pdb
+C:\Users\abdev\source\repos\Main\Inheritance\obj\Debug\netcoreapp3.1\Inheritance_and_Interface.genruntimeconfig.cache
