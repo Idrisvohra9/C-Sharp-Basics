@@ -1,0 +1,5 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Iomethode\bin\Debug\Iomethode.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Iomethode\bin\Debug\Iomethode.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Iomethode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\Iomethode\obj\Debug\Iomethode.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Iomethode\obj\Debug\Iomethode.pdb

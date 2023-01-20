@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\program\projectdemo\projectdemo\bin\Debug\Database1.sdf
+C:\Users\hello\Desktop\C#\program\projectdemo\projectdemo\bin\Debug\projectdemo.exe
+C:\Users\hello\Desktop\C#\program\projectdemo\projectdemo\bin\Debug\projectdemo.pdb
+C:\Users\hello\Desktop\C#\program\projectdemo\projectdemo\obj\x86\Debug\projectdemo.exe
+C:\Users\hello\Desktop\C#\program\projectdemo\projectdemo\obj\x86\Debug\projectdemo.pdb

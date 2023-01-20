@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace Reflection
 {
-    class Customer
+    [AttributeUsage(AttributeTargets.Class | AttributeTargets.Constructor, AllowMultiple = true)]
+    class Customer:System.Attribute
     {
         public int id { get; set; }
         public string name { get; set; }
@@ -11,17 +13,18 @@ namespace Reflection
             this.id = id;
             this.name = name;
         }
+        
         public Customer()
         {
 
         }
-
+        [Obsolete("Fuck off",true)]
         public void PrintId()
         {
 
             Console.WriteLine("Id : " + id);
         }
-
+        [Conditional("DEBUGE")]
         public void PrintName()
         {
 
@@ -34,8 +37,6 @@ namespace Reflection
         static void Main(string[] args)
         {
             Customer c1 = new Customer();
-
-
             // Types methods:
 
             Type t = typeof(Customer);
@@ -54,7 +55,7 @@ namespace Reflection
             for (int i = 0; i < t.GetMethods().Length; i++)
             {
                 Console.WriteLine(t.GetMethods()[i]);
-                Console.WriteLine("Parameters: ");
+                //Console.WriteLine("Parameters: ");
                 //for (int i = 0; i < t..GetParameters().Length; i++); i++)
                 //{
 

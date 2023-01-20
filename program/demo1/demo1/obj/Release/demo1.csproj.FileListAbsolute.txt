@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\demo1\demo1\bin\Release\demo1.exe
+C:\Users\hello\Desktop\C#\demo1\demo1\bin\Release\demo1.pdb
+C:\Users\hello\Desktop\C#\demo1\demo1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\demo1\demo1\obj\Release\demo1.exe
+C:\Users\hello\Desktop\C#\demo1\demo1\obj\Release\demo1.pdb

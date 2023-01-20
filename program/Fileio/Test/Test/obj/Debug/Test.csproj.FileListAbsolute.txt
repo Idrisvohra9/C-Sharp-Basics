@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\program\Fileio\Test\Test\bin\Debug\Test.dll
+C:\Users\hello\Desktop\C#\program\Fileio\Test\Test\bin\Debug\Test.pdb
+C:\Users\hello\Desktop\C#\program\Fileio\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\program\Fileio\Test\Test\obj\Debug\Test.dll
+C:\Users\hello\Desktop\C#\program\Fileio\Test\Test\obj\Debug\Test.pdb

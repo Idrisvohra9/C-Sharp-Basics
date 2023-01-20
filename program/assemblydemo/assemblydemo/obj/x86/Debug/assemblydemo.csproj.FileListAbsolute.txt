@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\program\assemblydemo\assemblydemo\bin\Debug\assemblydemo.exe
+C:\Users\hello\Desktop\C#\program\assemblydemo\assemblydemo\bin\Debug\assemblydemo.pdb
+C:\Users\hello\Desktop\C#\program\assemblydemo\assemblydemo\obj\x86\Debug\assemblydemo.exe
+C:\Users\hello\Desktop\C#\program\assemblydemo\assemblydemo\obj\x86\Debug\assemblydemo.pdb

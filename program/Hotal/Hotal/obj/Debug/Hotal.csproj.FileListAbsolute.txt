@@ -1,0 +1,10 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Hotal\bin\Debug\Hotal.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Hotal\bin\Debug\Hotal.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Hotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\Hotal\obj\Debug\Hotal.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Hotal\obj\Debug\Hotal.pdb
+C:\Users\hello\Desktop\C#\Hotal\Hotal\obj\Debug\Hotal.exe
+C:\Users\hello\Desktop\C#\Hotal\Hotal\obj\Debug\Hotal.pdb
+C:\Users\hello\Desktop\C#\Hotal\Hotal\bin\Debug\Hotal.exe
+C:\Users\hello\Desktop\C#\Hotal\Hotal\bin\Debug\Hotal.pdb
+C:\Users\hello\Desktop\C#\Hotal\Hotal\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Consolegenerics\bin\Debug\Consolegenerics.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Consolegenerics\bin\Debug\Consolegenerics.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Consolegenerics\obj\x86\Debug\Consolegenerics.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Consolegenerics\obj\x86\Debug\Consolegenerics.pdb
+C:\Users\hello\Desktop\C#\Consolegenerics\Consolegenerics\bin\Debug\Consolegenerics.exe
+C:\Users\hello\Desktop\C#\Consolegenerics\Consolegenerics\bin\Debug\Consolegenerics.pdb
+C:\Users\hello\Desktop\C#\Consolegenerics\Consolegenerics\obj\x86\Debug\Consolegenerics.exe
+C:\Users\hello\Desktop\C#\Consolegenerics\Consolegenerics\obj\x86\Debug\Consolegenerics.pdb

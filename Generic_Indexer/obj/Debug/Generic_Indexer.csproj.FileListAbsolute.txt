@@ -1,0 +1,8 @@
+D:\C#\Main\Generic_Indexer\bin\Debug\Generic_Indexer.exe.config
+D:\C#\Main\Generic_Indexer\bin\Debug\Generic_Indexer.exe
+D:\C#\Main\Generic_Indexer\bin\Debug\Generic_Indexer.pdb
+D:\C#\Main\Generic_Indexer\obj\Debug\Generic_Indexer.csproj.AssemblyReference.cache
+D:\C#\Main\Generic_Indexer\obj\Debug\Generic_Indexer.csproj.SuggestedBindingRedirects.cache
+D:\C#\Main\Generic_Indexer\obj\Debug\Generic_Indexer.csproj.CoreCompileInputs.cache
+D:\C#\Main\Generic_Indexer\obj\Debug\Generic_Indexer.exe
+D:\C#\Main\Generic_Indexer\obj\Debug\Generic_Indexer.pdb

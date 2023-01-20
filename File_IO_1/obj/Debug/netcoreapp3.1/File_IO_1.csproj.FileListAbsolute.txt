@@ -12,3 +12,17 @@ C:\Users\abdev\source\repos\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.csp
 C:\Users\abdev\source\repos\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.dll
 C:\Users\abdev\source\repos\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.pdb
 C:\Users\abdev\source\repos\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.genruntimeconfig.cache
+D:\C#\Main\File_IO_1\bin\Debug\netcoreapp3.1\File_IO_1.exe
+D:\C#\Main\File_IO_1\bin\Debug\netcoreapp3.1\File_IO_1.deps.json
+D:\C#\Main\File_IO_1\bin\Debug\netcoreapp3.1\File_IO_1.runtimeconfig.json
+D:\C#\Main\File_IO_1\bin\Debug\netcoreapp3.1\File_IO_1.runtimeconfig.dev.json
+D:\C#\Main\File_IO_1\bin\Debug\netcoreapp3.1\File_IO_1.dll
+D:\C#\Main\File_IO_1\bin\Debug\netcoreapp3.1\File_IO_1.pdb
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.csproj.AssemblyReference.cache
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.AssemblyInfoInputs.cache
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.AssemblyInfo.cs
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.csproj.CoreCompileInputs.cache
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.dll
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.pdb
+D:\C#\Main\File_IO_1\obj\Debug\netcoreapp3.1\File_IO_1.genruntimeconfig.cache

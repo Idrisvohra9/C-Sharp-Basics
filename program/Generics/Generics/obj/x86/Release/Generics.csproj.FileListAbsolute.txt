@@ -1,0 +1,8 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\bin\Release\Generics.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\bin\Release\Generics.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\obj\x86\Release\Generics.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\obj\x86\Release\Generics.pdb
+C:\Users\hello\Desktop\C#\Generics\Generics\obj\x86\Release\Generics.exe
+C:\Users\hello\Desktop\C#\Generics\Generics\obj\x86\Release\Generics.pdb
+C:\Users\hello\Desktop\C#\Generics\Generics\bin\Release\Generics.exe
+C:\Users\hello\Desktop\C#\Generics\Generics\bin\Release\Generics.pdb

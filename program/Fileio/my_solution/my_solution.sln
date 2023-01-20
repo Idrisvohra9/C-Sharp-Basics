@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access_specifiers1", "Access_specifiers2\Access_specifiers1.csproj", "{5E21A788-D775-4886-BE6D-A88882F8ACA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access_specifires2", "Access_specifires1\Access_specifires2.csproj", "{5B4A6727-953A-4C22-BDAB-E1282EC94726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E21A788-D775-4886-BE6D-A88882F8ACA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E21A788-D775-4886-BE6D-A88882F8ACA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E21A788-D775-4886-BE6D-A88882F8ACA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E21A788-D775-4886-BE6D-A88882F8ACA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4A6727-953A-4C22-BDAB-E1282EC94726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4A6727-953A-4C22-BDAB-E1282EC94726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4A6727-953A-4C22-BDAB-E1282EC94726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4A6727-953A-4C22-BDAB-E1282EC94726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

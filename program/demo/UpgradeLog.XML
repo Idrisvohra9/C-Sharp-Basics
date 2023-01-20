@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="demo">
+</Property><Property Name="Solution File" Value="C:\Users\hello\Desktop\C#\program\demo\demo.sln">
+</Property><Property Name="User Options File" Value="C:\Users\hello\Desktop\C#\program\demo\demo.suo">
+</Property><Property Name="Date" Value="21 July 2022">
+</Property><Property Name="Time" Value="23:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="demo.sln" Description="File successfully backed up as C:\Users\hello\Desktop\C#\program\demo\Backup\demo.sln">
+</Event><Event ErrorLevel="0" Project="" Source="demo.suo" Description="File successfully backed up as C:\Users\hello\Desktop\C#\program\demo\Backup\demo.suo">
+</Event><Event ErrorLevel="0" Project="demo" Source="demo\demo.csproj" Description="Project file successfully backed up as C:\Users\hello\Desktop\C#\program\demo\Backup\demo\demo.csproj">
+</Event><Event ErrorLevel="0" Project="demo" Source="demo\demo.csproj.user" Description="Project user file successfully backed up as C:\Users\hello\Desktop\C#\program\demo\Backup\demo\demo.csproj.user">
+</Event><Event ErrorLevel="0" Project="demo" Source="demo\Program.cs" Description="File successfully backed up as C:\Users\hello\Desktop\C#\program\demo\Backup\demo\Program.cs">
+</Event><Event ErrorLevel="0" Project="demo" Source="demo\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\hello\Desktop\C#\program\demo\Backup\demo\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="demo" Source="demo\demo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="demo" Source="demo\demo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="demo.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="demo.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="demo" Source="demo\demo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

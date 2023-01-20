@@ -1,0 +1,8 @@
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\bin\Debug\Access_specifires1.exe.config
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\bin\Debug\Access_specifires1.exe
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\bin\Debug\Access_specifires1.pdb
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\bin\Debug\Access_specifiers2.exe
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\bin\Debug\Access_specifiers2.pdb
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\obj\Debug\Access_specifires2.csprojResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\obj\Debug\Access_specifires1.exe
+C:\Users\hello\Desktop\C#\program\Fileio\my_solution\Access_specifires1\obj\Debug\Access_specifires1.pdb

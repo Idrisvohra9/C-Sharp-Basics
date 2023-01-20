@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\pratical\pratical\bin\Debug\pratical.exe
+C:\Users\hello\Desktop\C#\pratical\pratical\bin\Debug\pratical.pdb
+C:\Users\hello\Desktop\C#\pratical\pratical\obj\x86\Debug\pratical.exe
+C:\Users\hello\Desktop\C#\pratical\pratical\obj\x86\Debug\pratical.pdb

@@ -12,3 +12,17 @@ C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1
 C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.pdb
 C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.genruntimeconfig.cache
 C:\Users\abdev\source\repos\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.csproj.AssemblyReference.cache
+D:\C#\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.exe
+D:\C#\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.deps.json
+D:\C#\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.runtimeconfig.json
+D:\C#\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.runtimeconfig.dev.json
+D:\C#\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.dll
+D:\C#\Main\00.Testing1\bin\Debug\netcoreapp3.1\00.Testing1.pdb
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.csproj.AssemblyReference.cache
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.AssemblyInfoInputs.cache
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.AssemblyInfo.cs
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.csproj.CoreCompileInputs.cache
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.dll
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.pdb
+D:\C#\Main\00.Testing1\obj\Debug\netcoreapp3.1\00.Testing1.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\hello\AppData\Local\Temporary Projects\FileIO\bin\Debug\FileIO.exe
+C:\Users\hello\AppData\Local\Temporary Projects\FileIO\bin\Debug\FileIO.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\FileIO\obj\x86\Debug\FileIO.exe
+C:\Users\hello\AppData\Local\Temporary Projects\FileIO\obj\x86\Debug\FileIO.pdb
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\obj\x86\Debug\Fileio.exe
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\obj\x86\Debug\Fileio.pdb
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\bin\Debug\Fileio.exe
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\bin\Debug\Fileio.pdb
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\obj\x86\Debug\Fileio.csprojResolveAssemblyReference.cache

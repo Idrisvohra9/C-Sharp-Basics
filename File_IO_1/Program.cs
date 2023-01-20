@@ -23,7 +23,6 @@ namespace File_IO_1
             Console.WriteLine("File created.");
 
             // Alternately we can also create file with File.Create():
-
             //File.Create()
 
             // to write into that file:
@@ -35,7 +34,7 @@ namespace File_IO_1
 
             // We can also create a instance for appending some content to a File by creating a stream Using StreamWriter as a class:
             StreamWriter insert = File.AppendText(path);
-
+            
             // inserting one to 10 in a file:
             for (int i = 1; i <= 10; i++)
             {

@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\typeofcall\typeofcall\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\typeofcall\typeofcall\bin\Debug\typeofcall.exe
+C:\Users\hello\Desktop\C#\typeofcall\typeofcall\bin\Debug\typeofcall.pdb
+C:\Users\hello\Desktop\C#\typeofcall\typeofcall\obj\Debug\typeofcall.exe
+C:\Users\hello\Desktop\C#\typeofcall\typeofcall\obj\Debug\typeofcall.pdb

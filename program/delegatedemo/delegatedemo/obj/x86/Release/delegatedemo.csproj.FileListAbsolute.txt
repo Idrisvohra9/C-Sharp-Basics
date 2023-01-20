@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\bin\Release\delegatedemo.exe
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\bin\Release\delegatedemo.pdb
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\obj\x86\Release\delegatedemo.exe
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\obj\x86\Release\delegatedemo.pdb
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\obj\x86\Release\delegatedemo.csprojResolveAssemblyReference.cache

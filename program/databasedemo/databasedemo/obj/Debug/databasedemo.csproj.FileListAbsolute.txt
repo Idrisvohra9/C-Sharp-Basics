@@ -1,0 +1,28 @@
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\bin\Debug\databasedemo.exe.config
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\obj\Debug\databasedemo.csprojResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\bin\Debug\Database\Sample.mdf
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\bin\Debug\Database\Sample_log.ldf
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\bin\Debug\databasedemo.exe
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\bin\Debug\databasedemo.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\obj\Debug\databasedemo.exe
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\obj\Debug\databasedemo.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\bin\Debug\Database\Database1.mdf
+C:\Users\hello\AppData\Local\Temporary Projects\databasedemo\bin\Debug\Database\Database1_log.ldf
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Debug\databasedemo.exe.config
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\obj\Debug\databasedemo.exe
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\obj\Debug\databasedemo.pdb
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Debug\Database\Sample.mdf
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Debug\Database\Sample_log.ldf
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Debug\databasedemo.exe
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Debug\databasedemo.pdb
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\obj\Debug\databasedemo.csprojResolveAssemblyReference.cache
+D:\C#\Main\program\databasedemo\databasedemo\bin\Debug\Database\Database2.mdf
+D:\C#\Main\program\databasedemo\databasedemo\bin\Debug\Database\Database2_log.ldf
+D:\C#\Main\program\databasedemo\databasedemo\bin\Debug\databasedemo.exe.config
+D:\C#\Main\program\databasedemo\databasedemo\bin\Debug\databasedemo.exe
+D:\C#\Main\program\databasedemo\databasedemo\bin\Debug\databasedemo.pdb
+D:\C#\Main\program\databasedemo\databasedemo\obj\Debug\databasedemo.csproj.AssemblyReference.cache
+D:\C#\Main\program\databasedemo\databasedemo\obj\Debug\databasedemo.csproj.SuggestedBindingRedirects.cache
+D:\C#\Main\program\databasedemo\databasedemo\obj\Debug\databasedemo.csproj.CoreCompileInputs.cache
+D:\C#\Main\program\databasedemo\databasedemo\obj\Debug\databasedemo.exe
+D:\C#\Main\program\databasedemo\databasedemo\obj\Debug\databasedemo.pdb

@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\program\demo\demo\bin\Debug\demo.exe
+C:\Users\hello\Desktop\C#\program\demo\demo\bin\Debug\demo.pdb
+C:\Users\hello\Desktop\C#\program\demo\demo\obj\Debug\demo.exe
+C:\Users\hello\Desktop\C#\program\demo\demo\obj\Debug\demo.pdb
+C:\Users\hello\Desktop\C#\program\demo\demo\obj\Debug\demo.csprojResolveAssemblyReference.cache

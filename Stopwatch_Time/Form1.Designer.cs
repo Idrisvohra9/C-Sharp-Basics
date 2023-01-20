@@ -74,6 +74,7 @@ namespace ClockApp
             // 
             // timeClock
             // 
+            this.timeClock.BackColor = System.Drawing.Color.Black;
             this.timeClock.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.timeClock.Controls.Add(this.ClockDisplay);
             this.timeClock.Cursor = System.Windows.Forms.Cursors.Default;
@@ -83,7 +84,6 @@ namespace ClockApp
             this.timeClock.Size = new System.Drawing.Size(1170, 680);
             this.timeClock.TabIndex = 0;
             this.timeClock.Text = "Clock";
-            this.timeClock.UseVisualStyleBackColor = true;
             // 
             // ClockDisplay
             // 
@@ -99,6 +99,7 @@ namespace ClockApp
             // 
             // Stopwatch
             // 
+            this.Stopwatch.BackColor = System.Drawing.Color.Black;
             this.Stopwatch.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.Stopwatch.Controls.Add(this.tableLayoutPanel1);
             this.Stopwatch.Cursor = System.Windows.Forms.Cursors.Default;
@@ -108,7 +109,6 @@ namespace ClockApp
             this.Stopwatch.Size = new System.Drawing.Size(1170, 680);
             this.Stopwatch.TabIndex = 1;
             this.Stopwatch.Text = "Stopwatch";
-            this.Stopwatch.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel1
             // 
@@ -116,7 +116,7 @@ namespace ClockApp
             this.tableLayoutPanel1.ColumnCount = 3;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 43.36634F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 56.63366F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 251F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 254F));
             this.tableLayoutPanel1.Controls.Add(this.SW, 1, 0);
             this.tableLayoutPanel1.Controls.Add(this.RestartBtn, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.PauseBtn, 2, 1);
@@ -135,9 +135,9 @@ namespace ClockApp
             this.SW.Dock = System.Windows.Forms.DockStyle.Fill;
             this.SW.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.SW.Font = new System.Drawing.Font("Segoe Script", 28F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SW.Location = new System.Drawing.Point(222, 0);
+            this.SW.Location = new System.Drawing.Point(221, 0);
             this.SW.Name = "SW";
-            this.SW.Size = new System.Drawing.Size(281, 199);
+            this.SW.Size = new System.Drawing.Size(279, 199);
             this.SW.TabIndex = 0;
             this.SW.Text = "0.00";
             this.SW.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -150,7 +150,7 @@ namespace ClockApp
             this.RestartBtn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.RestartBtn.Location = new System.Drawing.Point(3, 202);
             this.RestartBtn.Name = "RestartBtn";
-            this.RestartBtn.Size = new System.Drawing.Size(213, 194);
+            this.RestartBtn.Size = new System.Drawing.Size(212, 194);
             this.RestartBtn.TabIndex = 1;
             this.RestartBtn.Text = "Restart";
             this.RestartBtn.UseVisualStyleBackColor = false;
@@ -163,9 +163,9 @@ namespace ClockApp
             this.PauseBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.PauseBtn.Dock = System.Windows.Forms.DockStyle.Fill;
             this.PauseBtn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.PauseBtn.Location = new System.Drawing.Point(509, 202);
+            this.PauseBtn.Location = new System.Drawing.Point(506, 202);
             this.PauseBtn.Name = "PauseBtn";
-            this.PauseBtn.Size = new System.Drawing.Size(246, 194);
+            this.PauseBtn.Size = new System.Drawing.Size(249, 194);
             this.PauseBtn.TabIndex = 2;
             this.PauseBtn.Text = "Pause";
             this.PauseBtn.UseVisualStyleBackColor = false;
@@ -177,9 +177,9 @@ namespace ClockApp
             this.StartBtn.Cursor = System.Windows.Forms.Cursors.Hand;
             this.StartBtn.Dock = System.Windows.Forms.DockStyle.Fill;
             this.StartBtn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.StartBtn.Location = new System.Drawing.Point(222, 202);
+            this.StartBtn.Location = new System.Drawing.Point(221, 202);
             this.StartBtn.Name = "StartBtn";
-            this.StartBtn.Size = new System.Drawing.Size(281, 194);
+            this.StartBtn.Size = new System.Drawing.Size(279, 194);
             this.StartBtn.TabIndex = 3;
             this.StartBtn.Text = "Start";
             this.StartBtn.UseVisualStyleBackColor = false;
@@ -187,7 +187,7 @@ namespace ClockApp
             // 
             // tabPage1
             // 
-            this.tabPage1.BackColor = System.Drawing.Color.MidnightBlue;
+            this.tabPage1.BackColor = System.Drawing.Color.Black;
             this.tabPage1.Controls.Add(this.alarmMsg);
             this.tabPage1.Controls.Add(this.label3);
             this.tabPage1.Controls.Add(this.hh);
@@ -221,7 +221,7 @@ namespace ClockApp
             // 
             // hh
             // 
-            this.hh.BackColor = System.Drawing.Color.MidnightBlue;
+            this.hh.BackColor = System.Drawing.Color.Black;
             this.hh.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.hh.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.hh.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 80F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
@@ -252,7 +252,7 @@ namespace ClockApp
             // 
             // mm
             // 
-            this.mm.BackColor = System.Drawing.Color.MidnightBlue;
+            this.mm.BackColor = System.Drawing.Color.Black;
             this.mm.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.mm.Cursor = System.Windows.Forms.Cursors.Arrow;
             this.mm.Font = new System.Drawing.Font("Franklin Gothic Medium Cond", 80F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
@@ -337,7 +337,7 @@ namespace ClockApp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(22F, 51F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.GhostWhite;
+            this.BackColor = System.Drawing.Color.Gray;
             this.ClientSize = new System.Drawing.Size(1178, 744);
             this.Controls.Add(this.Main);
             this.Font = new System.Drawing.Font("Segoe Script", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));

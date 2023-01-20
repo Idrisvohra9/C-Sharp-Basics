@@ -1,0 +1,6 @@
+C:\Users\hello\Desktop\C#\program\Reflationdemo\bin\Debug\Reflationdemo.exe.config
+C:\Users\hello\Desktop\C#\program\Reflationdemo\bin\Debug\Reflationdemo.exe
+C:\Users\hello\Desktop\C#\program\Reflationdemo\bin\Debug\Reflationdemo.pdb
+C:\Users\hello\Desktop\C#\program\Reflationdemo\obj\Debug\Reflationdemo.exe
+C:\Users\hello\Desktop\C#\program\Reflationdemo\obj\Debug\Reflationdemo.pdb
+C:\Users\hello\Desktop\C#\program\Reflationdemo\obj\Debug\Reflationdemo.csprojResolveAssemblyReference.cache

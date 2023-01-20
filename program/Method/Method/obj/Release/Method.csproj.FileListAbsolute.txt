@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\Method\Method\bin\Release\Method.exe
+C:\Users\hello\Desktop\C#\Method\Method\bin\Release\Method.pdb
+C:\Users\hello\Desktop\C#\Method\Method\obj\Release\ResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\Method\Method\obj\Release\Method.exe
+C:\Users\hello\Desktop\C#\Method\Method\obj\Release\Method.pdb

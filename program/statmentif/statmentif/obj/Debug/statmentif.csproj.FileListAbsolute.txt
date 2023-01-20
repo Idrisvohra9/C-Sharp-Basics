@@ -1,0 +1,10 @@
+C:\Users\hello\AppData\Local\Temporary Projects\statmentif\bin\Debug\statmentif.exe
+C:\Users\hello\AppData\Local\Temporary Projects\statmentif\bin\Debug\statmentif.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\statmentif\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\statmentif\obj\Debug\statmentif.exe
+C:\Users\hello\AppData\Local\Temporary Projects\statmentif\obj\Debug\statmentif.pdb
+C:\Users\hello\Desktop\C#\program\statmentif\statmentif\obj\Debug\statmentif.exe
+C:\Users\hello\Desktop\C#\program\statmentif\statmentif\obj\Debug\statmentif.pdb
+C:\Users\hello\Desktop\C#\program\statmentif\statmentif\bin\Debug\statmentif.exe
+C:\Users\hello\Desktop\C#\program\statmentif\statmentif\bin\Debug\statmentif.pdb
+C:\Users\hello\Desktop\C#\program\statmentif\statmentif\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\bin\Debug\Generics.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\bin\Debug\Generics.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\obj\x86\Debug\Generics.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Generics\obj\x86\Debug\Generics.pdb
+C:\Users\hello\Desktop\C#\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\hello\Desktop\C#\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\hello\Desktop\C#\Generics\Generics\obj\x86\Debug\Generics.exe
+C:\Users\hello\Desktop\C#\Generics\Generics\obj\x86\Debug\Generics.pdb
+C:\Users\hello\Desktop\C#\Generics\Generics\obj\x86\Debug\Generics.csprojResolveAssemblyReference.cache

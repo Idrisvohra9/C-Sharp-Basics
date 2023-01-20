@@ -1,0 +1,9 @@
+C:\Users\hello\AppData\Local\Temporary Projects\delegate\bin\Debug\@delegate.exe
+C:\Users\hello\AppData\Local\Temporary Projects\delegate\bin\Debug\@delegate.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\delegate\obj\x86\Debug\@delegate.exe
+C:\Users\hello\AppData\Local\Temporary Projects\delegate\obj\x86\Debug\@delegate.pdb
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\bin\Debug\delegatedemo.exe
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\bin\Debug\delegatedemo.pdb
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\obj\x86\Debug\delegatedemo.exe
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\obj\x86\Debug\delegatedemo.pdb
+C:\Users\hello\Desktop\C#\program\delegatedemo\delegatedemo\obj\x86\Debug\delegatedemo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileloop", "whileloop\whileloop.csproj", "{2EC3998E-3F3A-4DF6-8287-032DC997FA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EC3998E-3F3A-4DF6-8287-032DC997FA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC3998E-3F3A-4DF6-8287-032DC997FA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC3998E-3F3A-4DF6-8287-032DC997FA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC3998E-3F3A-4DF6-8287-032DC997FA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

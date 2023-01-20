@@ -1,0 +1,8 @@
+D:\C#\Main\Generic\bin\Debug\Generic.exe.config
+D:\C#\Main\Generic\bin\Debug\Generic.exe
+D:\C#\Main\Generic\bin\Debug\Generic.pdb
+D:\C#\Main\Generic\obj\Debug\Generic.csproj.AssemblyReference.cache
+D:\C#\Main\Generic\obj\Debug\Generic.csproj.SuggestedBindingRedirects.cache
+D:\C#\Main\Generic\obj\Debug\Generic.csproj.CoreCompileInputs.cache
+D:\C#\Main\Generic\obj\Debug\Generic.exe
+D:\C#\Main\Generic\obj\Debug\Generic.pdb

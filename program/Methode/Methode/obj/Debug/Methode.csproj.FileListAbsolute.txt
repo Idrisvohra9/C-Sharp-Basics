@@ -1,0 +1,10 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Methode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\Methode\bin\Debug\Methode.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Methode\bin\Debug\Methode.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Methode\obj\Debug\Methode.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Methode\obj\Debug\Methode.pdb
+C:\Users\hello\Desktop\C#\program\Methode\Methode\obj\Debug\Methode.exe
+C:\Users\hello\Desktop\C#\program\Methode\Methode\obj\Debug\Methode.pdb
+C:\Users\hello\Desktop\C#\program\Methode\Methode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\program\Methode\Methode\bin\Debug\Methode.exe
+C:\Users\hello\Desktop\C#\program\Methode\Methode\bin\Debug\Methode.pdb

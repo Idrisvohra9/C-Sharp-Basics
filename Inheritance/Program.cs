@@ -10,11 +10,12 @@ namespace Inheritance_and_Interface
     // DerivedClass in here is also called child class meaning that it inherits from the parent class.
 
     // There are mainly 4 types of inheritance:
+
     // 1. Single Inheritance.
-    // 2. Multi Level Inheritance.
+    // 2. Multi-Level Inheritance.
     // 3. Heirachical Inheritance.
     // 4. Multiple Inheritance.
-
+    // 5. Hybrid Inheritance.
     // Example of single inheritance:
 
     class CarDetails
@@ -140,9 +141,9 @@ namespace Inheritance_and_Interface
 
     sealed class InteriorAndExterior
     {
-        string SeatMaterials = "Leather";
-        int AC = 4;
-        int speakers = 4;
+        public string SeatMaterials = "Leather";
+        public int AC = 4;
+        public int speakers = 4;
     }
     //class Car:InteriorAndExterior; // Error
     //it cannot be inherited by other classes as sealed keyword is used.
@@ -163,7 +164,8 @@ namespace Inheritance_and_Interface
             p1.Accelator();
             p1.Brake();
             p1.Clutch();
-
+            InteriorAndExterior i = new InteriorAndExterior();
+            Console.WriteLine(i.AC);
             // Examples of calling methods and fields from multilevel inheritance:
             Gears g1 = new Gears();
 

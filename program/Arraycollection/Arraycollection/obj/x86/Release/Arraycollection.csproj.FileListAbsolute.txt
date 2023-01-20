@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\bin\Release\Arraycollection.exe
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\bin\Release\Arraycollection.pdb
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\obj\x86\Release\Arraycollection.exe
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\obj\x86\Release\Arraycollection.pdb

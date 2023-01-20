@@ -1,0 +1,2 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Referencesdemo\bin\Debug\Referencesdemo.exe.config
+C:\Users\hello\Desktop\C#\program\Fileio\Referencesdemo\Referencesdemo\bin\Debug\Referencesdemo.exe.config

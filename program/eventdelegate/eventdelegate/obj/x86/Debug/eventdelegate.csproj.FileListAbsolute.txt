@@ -1,0 +1,16 @@
+C:\Users\hello\AppData\Local\Temporary Projects\eventdelegate\bin\Debug\eventdelegate.exe
+C:\Users\hello\AppData\Local\Temporary Projects\eventdelegate\bin\Debug\eventdelegate.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\eventdelegate\obj\x86\Debug\eventdelegate.Form1.resources
+C:\Users\hello\AppData\Local\Temporary Projects\eventdelegate\obj\x86\Debug\eventdelegate.Properties.Resources.resources
+C:\Users\hello\AppData\Local\Temporary Projects\eventdelegate\obj\x86\Debug\eventdelegate.csproj.GenerateResource.Cache
+C:\Users\hello\AppData\Local\Temporary Projects\eventdelegate\obj\x86\Debug\eventdelegate.exe
+C:\Users\hello\AppData\Local\Temporary Projects\eventdelegate\obj\x86\Debug\eventdelegate.pdb
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\obj\x86\Debug\eventdelegate.exe
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\obj\x86\Debug\eventdelegate.pdb
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\bin\Debug\eventdelegate.exe
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\bin\Debug\eventdelegate.pdb
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\obj\x86\Debug\eventdelegate.Form1.resources
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\obj\x86\Debug\eventdelegate.Properties.Resources.resources
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\obj\x86\Debug\eventdelegate.csproj.GenerateResource.Cache
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\obj\x86\Debug\eventdelegate.Form2.resources
+C:\Users\hello\Desktop\C#\program\eventdelegate\eventdelegate\obj\x86\Debug\eventdelegate.csprojResolveAssemblyReference.cache

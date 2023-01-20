@@ -1,0 +1,5 @@
+C:\Users\hello\Desktop\C#\whileloop\whileloop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\whileloop\whileloop\bin\Debug\whileloop.exe
+C:\Users\hello\Desktop\C#\whileloop\whileloop\bin\Debug\whileloop.pdb
+C:\Users\hello\Desktop\C#\whileloop\whileloop\obj\Debug\whileloop.exe
+C:\Users\hello\Desktop\C#\whileloop\whileloop\obj\Debug\whileloop.pdb

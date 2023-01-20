@@ -1,0 +1,7 @@
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Release\Database\Sample.mdf
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Release\Database\Sample_log.ldf
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Release\databasedemo.exe.config
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Release\databasedemo.exe
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\bin\Release\databasedemo.pdb
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\obj\Release\databasedemo.exe
+C:\Users\hello\Desktop\C#\program\databasedemo\databasedemo\obj\Release\databasedemo.pdb

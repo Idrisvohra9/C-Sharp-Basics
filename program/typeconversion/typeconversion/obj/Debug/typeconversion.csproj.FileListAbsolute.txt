@@ -1,0 +1,10 @@
+C:\Users\hello\AppData\Local\Temporary Projects\typeconversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\typeconversion\bin\Debug\typeconversion.exe
+C:\Users\hello\AppData\Local\Temporary Projects\typeconversion\bin\Debug\typeconversion.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\typeconversion\obj\Debug\typeconversion.exe
+C:\Users\hello\AppData\Local\Temporary Projects\typeconversion\obj\Debug\typeconversion.pdb
+C:\Users\hello\Desktop\C#\program\typeconversion\typeconversion\obj\Debug\typeconversion.exe
+C:\Users\hello\Desktop\C#\program\typeconversion\typeconversion\obj\Debug\typeconversion.pdb
+C:\Users\hello\Desktop\C#\program\typeconversion\typeconversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\program\typeconversion\typeconversion\bin\Debug\typeconversion.exe
+C:\Users\hello\Desktop\C#\program\typeconversion\typeconversion\bin\Debug\typeconversion.pdb

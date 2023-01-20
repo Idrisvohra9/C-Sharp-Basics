@@ -1,0 +1,10 @@
+C:\Users\hello\AppData\Local\Temporary Projects\classobject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\classobject\bin\Debug\classobject.exe
+C:\Users\hello\AppData\Local\Temporary Projects\classobject\bin\Debug\classobject.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\classobject\obj\Debug\classobject.exe
+C:\Users\hello\AppData\Local\Temporary Projects\classobject\obj\Debug\classobject.pdb
+C:\Users\hello\Desktop\C#\classobject\classobject\obj\Debug\classobject.exe
+C:\Users\hello\Desktop\C#\classobject\classobject\bin\Debug\classobject.exe
+C:\Users\hello\Desktop\C#\classobject\classobject\bin\Debug\classobject.pdb
+C:\Users\hello\Desktop\C#\classobject\classobject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\classobject\classobject\obj\Debug\classobject.pdb

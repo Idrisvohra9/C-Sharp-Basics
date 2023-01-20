@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\program\temp\temp\bin\Debug\temp.dll
+C:\Users\hello\Desktop\C#\program\temp\temp\bin\Debug\temp.pdb
+C:\Users\hello\Desktop\C#\program\temp\temp\obj\Debug\temp.dll
+C:\Users\hello\Desktop\C#\program\temp\temp\obj\Debug\temp.pdb

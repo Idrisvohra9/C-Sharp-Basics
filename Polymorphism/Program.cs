@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml.Linq;
 
 namespace Polymorphism
 {
@@ -13,7 +14,6 @@ namespace Polymorphism
     class Student
     {
         public int rollNo = 1;
-
         virtual public void Subject()
         {
             Console.WriteLine("Student has a subject.");
@@ -37,13 +37,49 @@ namespace Polymorphism
             Console.WriteLine("Howard has subject Physics.");
         }
     }
+    abstract class Shape
+    {
+        public abstract int Area();
+    }
+    class Rectangle: Shape
+    {
+        private int length;
+        private int width;
+        public Rectangle(int length, int width)
+        {
+            this.length = length;
+            this.width = width;
+        }
+
+        public override int Area()
+        {
+            Console.WriteLine("Area: " + length* width);
+            return length*width;
+        }
+
+    }
+    class PrintData
+    {
+        // Funcyion Overloading: 
+        public void print(int i)
+        {
+            Console.WriteLine(i);
+        }
+        public void print(double f)
+        {
+            Console.WriteLine(f);
+        }
+        public void print(string s)
+        {
+            Console.WriteLine(s);
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
             Student s = new Student();
 
-            Console.WriteLine("Roll No: "+s.rollNo);
             Console.WriteLine("Subject of student: ");
             s.Subject();
 
@@ -59,17 +95,35 @@ namespace Polymorphism
             Console.WriteLine("Subject of student: ");
             s3.Subject();
 
+            Console.WriteLine();
+
+            PrintData Out = new PrintData();
+            Out.print("Hello");
+            Out.print(10);
+            Out.print(10.20);
+
+            Console.WriteLine();
+
+            Rectangle r = new Rectangle(10,20);
+            string area = r.Area()+"";
+            Console.WriteLine(area);
             // Output:
 
-            //Roll No: 1
             //Subject of student:
             //Student has a subject.
             //Roll No: 1
             //Subject of student:
-            //Rajesh has subject Maths.
+            //            Rajesh has subject Maths.
             //Roll No: 1
             //Subject of student:
-            //Howard has subject Physics.
+            //            Howard has subject Physics.
+
+            //Hello
+            //10
+            //10.2
+
+            //Area: 200
+            //200
 
             // So we can clealy see the difference between the output of field in which virtual - override keyword is not used and in the method in which virtual - override keyword is used.
 

@@ -12,3 +12,17 @@ C:\Users\abdev\source\repos\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegat
 C:\Users\abdev\source\repos\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.pdb
 C:\Users\abdev\source\repos\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.genruntimeconfig.cache
 C:\Users\abdev\source\repos\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.csproj.AssemblyReference.cache
+D:\C#\Main\Delegate Method\bin\Debug\netcoreapp3.1\Delegate_Method.exe
+D:\C#\Main\Delegate Method\bin\Debug\netcoreapp3.1\Delegate_Method.deps.json
+D:\C#\Main\Delegate Method\bin\Debug\netcoreapp3.1\Delegate_Method.runtimeconfig.json
+D:\C#\Main\Delegate Method\bin\Debug\netcoreapp3.1\Delegate_Method.runtimeconfig.dev.json
+D:\C#\Main\Delegate Method\bin\Debug\netcoreapp3.1\Delegate_Method.dll
+D:\C#\Main\Delegate Method\bin\Debug\netcoreapp3.1\Delegate_Method.pdb
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.csproj.AssemblyReference.cache
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.AssemblyInfoInputs.cache
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.AssemblyInfo.cs
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.csproj.CoreCompileInputs.cache
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.dll
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.pdb
+D:\C#\Main\Delegate Method\obj\Debug\netcoreapp3.1\Delegate_Method.genruntimeconfig.cache

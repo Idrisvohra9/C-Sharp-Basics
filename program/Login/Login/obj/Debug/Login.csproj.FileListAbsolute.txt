@@ -1,0 +1,9 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Login\bin\Debug\Login.exe.config
+C:\Users\hello\AppData\Local\Temporary Projects\Login\bin\Debug\Login.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Login\bin\Debug\Login.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\hello\AppData\Local\Temporary Projects\Login\obj\Debug\Login.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Login\obj\Debug\Login.pdb
+C:\Users\hello\Desktop\C#\program\Login\Login\bin\Debug\Login.exe.config
+C:\Users\hello\Desktop\C#\program\Login\Login\obj\Debug\Login.exe
+C:\Users\hello\Desktop\C#\program\Login\Login\obj\Debug\Login.pdb

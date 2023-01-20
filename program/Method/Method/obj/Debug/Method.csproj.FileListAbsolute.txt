@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\Method\Method\bin\Debug\Method.exe
+C:\Users\hello\Desktop\C#\Method\Method\bin\Debug\Method.pdb
+C:\Users\hello\Desktop\C#\Method\Method\obj\Debug\Method.exe
+C:\Users\hello\Desktop\C#\Method\Method\obj\Debug\Method.pdb

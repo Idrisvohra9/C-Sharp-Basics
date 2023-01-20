@@ -1,0 +1,11 @@
+C:\Users\hello\AppData\Local\Temporary Projects\Arraycollection\bin\Debug\Arraycollection.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Arraycollection\bin\Debug\Arraycollection.pdb
+C:\Users\hello\AppData\Local\Temporary Projects\Arraycollection\obj\x86\Debug\Arraycollection.exe
+C:\Users\hello\AppData\Local\Temporary Projects\Arraycollection\obj\x86\Debug\Arraycollection.pdb
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\obj\x86\Debug\Arraycollection.exe
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\obj\x86\Debug\Arraycollection.pdb
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\bin\Debug\Arraycollection.exe
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\bin\Debug\Arraycollection.pdb
+C:\Users\hello\Desktop\C#\program\Arraycollection\Arraycollection\obj\x86\Debug\Arraycollection.csprojResolveAssemblyReference.cache
+D:\C#\Main\program\Arraycollection\Arraycollection\obj\x86\Debug\Arraycollection.exe
+D:\C#\Main\program\Arraycollection\Arraycollection\obj\x86\Debug\Arraycollection.pdb

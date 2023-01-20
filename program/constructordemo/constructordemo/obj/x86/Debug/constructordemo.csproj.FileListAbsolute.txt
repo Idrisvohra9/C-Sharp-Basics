@@ -1,0 +1,7 @@
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\bin\Debug\constructordemo.exe
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\bin\Debug\constructordemo.pdb
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\obj\x86\Debug\constructordemo.exe
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\obj\x86\Debug\constructordemo.pdb
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\obj\x86\Debug\constructordemo.csprojResolveAssemblyReference.cache
+C:\Users\hello\Desktop\C#\program\constructordemo\constructordemo\obj\x86\Debug\constructordemo.exe
+C:\Users\hello\Desktop\C#\program\constructordemo\constructordemo\obj\x86\Debug\constructordemo.pdb

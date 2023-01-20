@@ -1,0 +1,8 @@
+D:\C#\Main\ParameterTypes\bin\Debug\ParameterTypes.exe.config
+D:\C#\Main\ParameterTypes\bin\Debug\ParameterTypes.exe
+D:\C#\Main\ParameterTypes\bin\Debug\ParameterTypes.pdb
+D:\C#\Main\ParameterTypes\obj\Debug\ParameterTypes.csproj.AssemblyReference.cache
+D:\C#\Main\ParameterTypes\obj\Debug\ParameterTypes.csproj.SuggestedBindingRedirects.cache
+D:\C#\Main\ParameterTypes\obj\Debug\ParameterTypes.csproj.CoreCompileInputs.cache
+D:\C#\Main\ParameterTypes\obj\Debug\ParameterTypes.exe
+D:\C#\Main\ParameterTypes\obj\Debug\ParameterTypes.pdb

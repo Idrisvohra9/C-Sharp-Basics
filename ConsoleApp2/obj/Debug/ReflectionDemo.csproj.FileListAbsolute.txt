@@ -5,3 +5,11 @@ C:\Users\abdev\source\repos\Main\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
 C:\Users\abdev\source\repos\Main\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\abdev\source\repos\Main\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
 C:\Users\abdev\source\repos\Main\ConsoleApp2\obj\Debug\ReflectionDemo.csproj.AssemblyReference.cache
+D:\C#\Main\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\C#\Main\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\C#\Main\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\C#\Main\ConsoleApp2\obj\Debug\ReflectionDemo.csproj.AssemblyReference.cache
+D:\C#\Main\ConsoleApp2\obj\Debug\ReflectionDemo.csproj.SuggestedBindingRedirects.cache
+D:\C#\Main\ConsoleApp2\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\C#\Main\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\C#\Main\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\bin\Release\Fileio.exe
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\bin\Release\Fileio.pdb
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\obj\x86\Release\Fileio.exe
+C:\Users\hello\Desktop\C#\program\Fileio\Fileio\obj\x86\Release\Fileio.pdb

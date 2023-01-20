@@ -1,0 +1,4 @@
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\bin\Release\constructordemo.exe
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\bin\Release\constructordemo.pdb
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\obj\x86\Release\constructordemo.exe
+C:\Users\hello\Desktop\C#\constructordemo\constructordemo\obj\x86\Release\constructordemo.pdb
